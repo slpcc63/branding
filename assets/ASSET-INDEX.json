@@ -1,0 +1,201 @@
+{
+  "version": 1,
+  "updated": "2026-11-21",
+  "authority": "BRAND-GUIDE.md",
+  "path_base": "Branding folder",
+  "source": "codex://threads/01a1ab5c-f2b1-7822-8aea-a0c008b598c0",
+  "assets": [
+    {
+      "product": "Doxle",
+      "status": "historical_company_lockup",
+      "path": "assets/doxle/doxle-duke-clean-contours-right-v8.png"
+    },
+    {
+      "product": "Duke",
+      "status": "detailed_backup",
+      "path": "assets/doxle/doxle-duke-detailed-right-backup-v6.png",
+      "store_name": "Duke | Doxle",
+      "home_screen_label": "Duke"
+    },
+    {
+      "product": "Duke",
+      "status": "approved_identity_reference",
+      "path": "assets/doxle/doxle-duke-head-symbol-v1.png",
+      "approved": "2026-11-16",
+      "store_name": "Duke | Doxle",
+      "home_screen_label": "Duke",
+      "notes": "Approved identity source. Prepared Duke 1024 app-icon export is indexed separately."
+    },
+    {
+      "product": "Doxle",
+      "status": "unselected_comparison",
+      "path": "assets/doxle/doxle-geometric-wordmark-comparison-v9.png"
+    },
+    {
+      "product": "Cue",
+      "status": "historical_approved_artwork",
+      "path": "assets/daybreak/daybreak-path-blue-violet-v2.png",
+      "store_name": "Cue | Doxle",
+      "home_screen_label": "Cue"
+    },
+    {
+      "product": "Cue",
+      "status": "unapproved_draft",
+      "path": "assets/daybreak/daybreak-sunrise-v1.png",
+      "store_name": "Cue | Doxle",
+      "home_screen_label": "Cue"
+    },
+    {
+      "product": "Prism",
+      "status": "approved_primary",
+      "path": "assets/prism/prism-chaos-to-focus-v1.png",
+      "store_name": "Prism | Doxle",
+      "home_screen_label": "Prism"
+    },
+    {
+      "product": "Portal",
+      "status": "approved_primary",
+      "path": "assets/portal/portal-gateway-concept-v1.png",
+      "store_name": "Portal | Doxle",
+      "home_screen_label": "Portal"
+    },
+    {
+      "product": "Tether",
+      "status": "approved_primary",
+      "path": "assets/messenger/tether-tail-variation-v2.png",
+      "store_name": "Tether | Doxle",
+      "home_screen_label": "Tether"
+    },
+    {
+      "product": "Tether",
+      "status": "backup",
+      "path": "assets/messenger/messenger-conversation-concept-v1.png",
+      "store_name": "Tether | Doxle",
+      "home_screen_label": "Tether"
+    },
+    {
+      "product": "SIFT",
+      "status": "approved_primary",
+      "path": "assets/sift/sift-converging-frames-dock-v2.png",
+      "approved": "2026-11-13",
+      "decision_source": "codex://threads/01a1d5d1-b330-7681-853d-67642129e0ff",
+      "approval": "I like that. Let\u2019s use it for SIFT and go ahead with the family facelift and the 12 quick-destination buttons, with their settings in Preferences.",
+      "store_name": "SIFT | Doxle",
+      "home_screen_label": "SIFT"
+    },
+    {
+      "product": "Cue",
+      "status": "approved_primary",
+      "path": "assets/cue/cue-guiding-ribbon-v1.png",
+      "created": "2026-11-14",
+      "decision_source": "codex://threads/01a1ab5c-f2b1-7822-8aea-a0c008b598c0",
+      "approved": "2026-11-15",
+      "approval": "Ok I like fhe first one.",
+      "store_name": "Cue | Doxle",
+      "home_screen_label": "Cue"
+    },
+    {
+      "product": "Cue",
+      "status": "unselected_alternative",
+      "path": "assets/cue/cue-directional-token-v2.png",
+      "created": "2026-11-15",
+      "store_name": "Cue | Doxle",
+      "home_screen_label": "Cue"
+    },
+    {
+      "product": "Cue",
+      "status": "unselected_alternative",
+      "path": "assets/cue/cue-one-focus-v3.png",
+      "created": "2026-11-15",
+      "store_name": "Cue | Doxle",
+      "home_screen_label": "Cue"
+    },
+    {
+      "product": "Doxle",
+      "status": "selected_symbol_reference",
+      "path": "assets/doxle/doxle-geometric-v3.png",
+      "approved": "2026-11-16",
+      "notes": "Selected source reference with wordmark. Standalone transparent raster D export is indexed separately."
+    },
+    {
+      "product": "Doxle",
+      "status": "prepared_standalone_export",
+      "path": "assets/doxle/exports/doxle-D-transparent-1024.png",
+      "format": "RGBA PNG",
+      "size": [
+        1024,
+        1024
+      ],
+      "notes": "Transparent raster derivative of selected D. Company name remains provisional; not a vector master.",
+      "variants": [
+        "assets/doxle/exports/doxle-D-transparent-512.png",
+        "assets/doxle/exports/doxle-D-transparent-256.png",
+        "assets/doxle/exports/doxle-D-transparent-128.png"
+      ]
+    },
+    {
+      "product": "Duke",
+      "status": "prepared_app_icon_export",
+      "path": "assets/duke/exports/duke-app-icon-1024.png",
+      "store_name": "Duke | Doxle",
+      "home_screen_label": "Duke",
+      "format": "RGB PNG",
+      "size": [
+        1024,
+        1024
+      ],
+      "notes": "Opaque default square artwork. No baked outer rounding. Integration/build/store validation not performed. Generated adaptation preserves selected identity; exported pixels are not identical to the original head-only source.",
+      "asset_set": "assets/duke/exports/Duke-AppIcon.appiconset",
+      "variants": [
+        "assets/duke/exports/duke-app-icon-512.png",
+        "assets/duke/exports/duke-app-icon-256.png",
+        "assets/duke/exports/duke-app-icon-128.png",
+        "assets/duke/exports/duke-app-icon-64.png",
+        "assets/duke/exports/duke-app-icon-32.png"
+      ]
+    },
+    {
+      "product": "Span",
+      "status": "proposed_identity_source_name_approved",
+      "path": "/Users/shannonphillips/slpcc63/Dock Commands/Tools/MeasureArea/MakeIcon.swift",
+      "store_name": "Span | Doxle",
+      "home_screen_label": "Span",
+      "name_approved": "2026-11-20",
+      "approval_source": "codex://threads/01a1ba4a-f2d2-75a1-90a3-7d7f4130839c",
+      "note": "Shannon selected the name. Artwork remains proposed. Generated raster/ICNS candidates are build outputs; not release approval."
+    }
+  ],
+  "symbol_library": {
+    "status": "shared_raster_library",
+    "archive": "assets/symbols/doxle-500-transparent-icons.zip",
+    "directory": "assets/symbols/catalog-500",
+    "manifest": "assets/symbols/catalog-500/manifest.json",
+    "preview": "assets/symbols/new-300-transparent-preview.png",
+    "documented_count": 500,
+    "sizes": [
+      32,
+      64,
+      128,
+      256
+    ],
+    "notes": "500 named independently drawn supporting UI symbols,2000 RGBA PNGs. Export QA verified; product-specific integration and owner visual acceptance are separate. Prior packs retained as historical subsets. New300 do not replace approved app icons.",
+    "available_expansions": [
+      {
+        "date": "2026-11-21",
+        "status": "generated_exports_owner_review_pending",
+        "new_count": 300,
+        "combined_count": 500,
+        "new_archive": "assets/symbols/doxle-300-new-transparent-icons.zip",
+        "combined_archive": "assets/symbols/doxle-500-transparent-icons.zip",
+        "preview": "assets/symbols/new-300-transparent-preview.png",
+        "notes": "Supporting UI symbols. Existing200 retained; no approved product masters replaced. Distribution snapshots not synchronized."
+      }
+    ]
+  },
+  "naming": {
+    "store_format": "[Product] | Doxle",
+    "home_screen": "Bare product name",
+    "approved": "2026-11-15",
+    "source": "codex://threads/01a1ab5c-f2b1-7822-8aea-a0c008b598c0"
+  }
+}
