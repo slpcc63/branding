@@ -57,11 +57,11 @@ Authoritative local branding decisions and working documents remain at:
 
 /Users/shannonphillips/Documents/ChatGPT/Branding
 
-A verified distribution package is at:
+Historical distribution location (not found during the November 21, 2026 catalog update):
 
 /Users/shannonphillips/Projects/Branding Assets/Asset Catalog
 
-Start with START-HERE.md in that package. It contains the workbook, guides, design-system edition, mockups, indexed artwork and 500-symbol pack. Distribution copies are snapshots; they do not automatically synchronize back to the authoring source. If copies disagree, check the current central source and dated approval evidence before using either.
+The current full 500-icon catalog and updated guides are published at https://github.com/slpcc63/branding. The historical package was not updated or verified during this release. Distribution copies are snapshots; they do not automatically synchronize back to the authoring source. If copies disagree, check the current central source and dated approval evidence before using either.
 
 Google Drive distribution is intended, but a verified Drive destination and cloud-chat access have not been established in this source. Do not invent links or assume a local path is accessible to another computer or service. Obtain a current authorized accessible copy or report the specific access gap before dependent design decisions. Preserve approval/version metadata when distributing updates.
 
